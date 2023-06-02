@@ -10,8 +10,8 @@ We are a well-funded biotech company backed by some of the most experienced oper
 ## In Partnership 🤝
 As exclusive licensee of [University of California San Francisco’s (UCSF)](https://ucsf.edu/)  metagenomic sequencing (mNGS) technology, [Delve Bio](https://www.delve.bio) leverages mNGS to empower labs and clinicians with the results they need to diagnose routine and rare infectious diseases.
 
-## Careers
+## Careers 💼
 If you are interested to join [Delve Bio](https://www.delve.bio) please check out our job postings on our [Linkedin](https://www.linkedin.com/company/delve-bio/jobs/) page.
 
-## Contact Us
+## Contact Us 💬
 Questions or comments please [contact us](mailto:software@delve.bio)
