@@ -1,6 +1,13 @@
 ## Welcome to Delve Bio 👋
 
-![Delve Bio Logo Background Image](https://github.com/delvebio/.github/blob/main/profile/delvebiologobackground.png?raw=true)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/delvebio/.github/blob/main/profile/delvebiodark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/delvebio/.github/blob/main/profile/delvebiolight.png">
+    <img alt="Delve Bio Logo Background Image." src="https://github.com/delvebio/.github/blob/main/profile/delvebiologobackground.png" width="512px">
+  </picture>
+</p>
+
 ## Know More Unknowns 🧪
 Diagnosis starts with casting the widest net possible. Conclusively capture and identify critical pathogens with a single, comprehensive, and unbiased metagenomic NGS-based test.
 
