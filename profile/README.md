@@ -1,5 +1,3 @@
-## Welcome to Delve Bio 👋
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/delvebio/.github/blob/main/profile/delvebiodark.png">
